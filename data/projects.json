@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Flappy Bird RL",
+    "description": "Trained an RL agent to play Flappy Bird using reinforcement learning.",
+    "link": "https://github.com/yourusername/flappy-bird-rl"
+  },
+  {
+    "title": "SUIM Segmentation",
+    "description": "Performed underwater image segmentation using U-Net on the SUIM dataset.",
+    "link": "https://github.com/Parzival444/Segmentation_on_SUIM_Dataset/"
+  }
+]
