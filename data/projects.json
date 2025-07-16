@@ -1,8 +1,8 @@
 [
   {
-    "title": "Flappy Bird RL",
-    "description": "Trained an RL agent to play Flappy Bird using reinforcement learning.",
-    "link": "https://github.com/yourusername/flappy-bird-rl"
+    "title": "QnA Model with RAG",
+    "description": "Worked on comparative analysis of RAG methodology for leveraging Large Language Models (LLMs) and external data using LlamaIndex and LangChain frameworks.",
+    "link": "https://github.com/Parzival444/rag_project"
   },
   {
     "title": "SUIM Segmentation",
